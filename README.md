@@ -1,0 +1,2 @@
+# automation
+Automation for CM
